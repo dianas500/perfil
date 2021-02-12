@@ -1,0 +1,52 @@
+body{
+	background-color: salmon; 
+	font-family: aclonica;
+}
+h1,h2,h3{
+	font-family: acme,arial,  Sans-serif;
+}
+h1{
+	text-align: center; 
+   color:white;
+   background-color: skyblue;
+   font-size:100px;
+
+}
+   
+
+
+h2{text-align:center;
+	color: #cc6000;
+	font-size: 40px;
+
+}	
+	
+	
+
+	
+
+h3{
+  text-align: center;
+  color: blue;
+  
+}
+
+ section{
+ 	background-color:#BBBBBB;
+	width: 70%;
+	margin:75px auto;
+	padding:30px;
+
+ }
+	
+	
+
+img{
+	height:180px;
+	width: 100%;
+	object-fit: cover;
+	display: block;
+	margin: 0px auto;
+
+}
+/*Pobando Git*/
